@@ -5,5 +5,6 @@ export const Content = () => {
 
     return (<section>
         <Sidebar/>
+        <Tasks/>
     </section>);
 };
